@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "username": "mohammad",
+      "profile": {
+        "name": "",
+        "age": 0,
+        "gender": "",
+        "height_cm": 0
+      },
+      "weights": [
+        {
+          "date": "2024-01-01",
+          "weight_kg": 97.5,
+          "notes": "very nice"
+        }
+      ],
+      "goals": {
+        "target_weight_kg": 70,
+        "target_date": "2024-09-01"
+      }
+    }
+  ]
+}
